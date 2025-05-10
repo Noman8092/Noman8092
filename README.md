@@ -3,7 +3,7 @@
 - 🌱 Currently learning **Web Development** (HTML, CSS, JS) and **GitHub Deployment**
 - 🎯 Interested in **App Development** and **Frontend Design**
 - 🤝 Looking to collaborate on **open-source** beginner-friendly projects
-- 📫 How to reach me: [noman8092@gmail.com](mailto:noman8092@gmail.com)
+- 📫 How to reach me: [noman8092@gmail.com](mailto:noman.codesolutions@gmail.com)
 - ⚡ Fun fact: I love building apps that help people **save time**!
 
 ---
